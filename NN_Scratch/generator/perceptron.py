@@ -1,6 +1,6 @@
 from dtypes.dtype import DTYPE
 from dtypes.floats import FLOAT_16, FLOAT_32
-from generator.activation_functions import ActivationFunction, Relu, Sigmoid, TanH
+from generator.activation_function import ActivationFunction, Relu, Sigmoid, TanH
 
 import numpy as np
 
